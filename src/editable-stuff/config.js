@@ -50,7 +50,7 @@ const about = {
   imageLink: require("../editable-stuff/IMG_9374.jpg"),
   imageSize: 375,
   message:
-    "My name is Ming-Yang, Ho (Kaminyou). I am now a master's student at National Taiwan University (NTU). I am familiar with deep learning techniques and apply them to CV, audio, and NLP task. Besides, I am also adept at web programming, cryptography, and clinical pharmacy.",
+    "My name is Ming-Yang, Ho (Kaminyou). I am a data scientist at aetherAI with 4+ years of experience in 2D/3D computer vision, natural language processing, machine learning, and deep learning algorithms development. Besides, I am also adept at web programming, cryptography, and clinical pharmacy.",
   resume: require("../editable-stuff/resume.pdf"),
 };
 
